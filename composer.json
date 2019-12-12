@@ -1,0 +1,11 @@
+{
+    "name": "volmir/xml-parser",
+    "description": "XML Parser",
+    "homepage": "https://github.com/volmir/xml-parser",   
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
